@@ -7,7 +7,7 @@ Para iniciar o projeto é necessario ter instalado:
 - yarn 1.22.4
 - expo 4.0.17
 
-#Bibliotecas utilizadas
+Bibliotecas utilizadas
 
 - react-navigation/ (navegação do app)
 - react-native-currency-input (biblioteca de máscara para input)
